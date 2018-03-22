@@ -2,6 +2,13 @@
 Explosions! Speed! Versatility!
 
 Boom Boom Zoom is a fun deck I've been using in the 4600-5000 trophy range. It consists of three win conditions: 1) Giant Skeleton, 2) Hog Rider, and 3) Elite Barbarians, and flexible defense/counter pushes using: 1) Barbarians, 2) Minions, 3) Musketeer, 4) Zap, and 5) Ice Wizard.
+
+<hr>
+
+<p align="center">
+  <img src="BoomBoomZoomAlt.png" alt="Deck: Elite Barbarians, Giant Skeleton, Barbarians, Minions, Musketeer, Zap, Hog Rider, Ice Wizard" width="600" align="middle"/>
+</p>
+
 <hr>
 
 ## Offense
