@@ -37,7 +37,9 @@ If elixir management is handled well by making positive elixir trade-esque defen
   - If you know your opponent has Skeleton Army coming up, wait until you save up 5 elixir and send out the Hog Rider--hover Zap and aim carefully to take out every last Skeleton in one shot (so satisfying).
   - Other Zap tips:
       - If Cannon is an issue, hover Zap and aim to hit the Cannon + their tower. When you Zap a cannon, Hog Rider takes one less hit to kill it. If Cannon is their only response (out of elixir) your Hog Rider will do some serious damage to their tower.
-      - Inferno Tower: Similar to the Giant Skeleton/Hog Rider push, wait to Zap the Inferno Tower until 2-3 seconds have passed. Again, if Inferno Tower was their only response due to your superior elixir management skills, your Hog Rider will survive and after destroying the lazer machine, will get a few hits on their tower.
+      - Inferno Tower: Your response should depend on where your opponent places their Inferno Tower.
+          - Inferno Tower placed close-ish to their tower: Similar to the Giant Skeleton/Hog Rider push, wait to Zap the Inferno Tower until 2-3 seconds have passed. Again, if Inferno Tower was their only response due to your superior elixir management skills, your Hog Rider will survive and after destroying the lazer machine, will get a few hits on their tower.
+          - Inferno Tower placed far from their tower: If your Hog has to travel a farther distance to the Inferno Tower and then to their tower, it's best to let your Hog Rider die. He'll take out most/all of the Inferno Tower's health, but won't land any hits on their tower. However, since Inferno Tower costs five elixir and Hog Rider only costs four elixir, you've just gained a one elixir advantage. Let it go! Put your Zap back in its holster and enjoy your positive elixir trade. 😉
 <hr>
 
 ## Counter Pushes
